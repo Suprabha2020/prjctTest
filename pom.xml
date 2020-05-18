@@ -13,4 +13,7 @@
 			<version>4.12</version>
 		</dependency>
 	</dependencies>
+	<build>
+	<finalName>junit-hello-world</finalName>
+	</build>
 </project>
